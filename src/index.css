@@ -1,0 +1,16 @@
+body {
+  margin: 30px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+div{
+  margin: 10px;
+  padding: 5px;
+}
+
+button{
+  padding: 5px;
+  background-color: blue;
+  color: white
+}
